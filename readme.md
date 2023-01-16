@@ -1,10 +1,7 @@
 In the project directory, you can run:
 
-### `cd todo`
 
-Project folder
-
-### `npm json-server react-icons`
+### `npm json-server react-icons` or `npm install` 
 
 Install dependencies for API simulator
 
