@@ -1,3 +1,5 @@
+![Preview](./Preview.png)
+
 In the project directory, you can run:
 
 
